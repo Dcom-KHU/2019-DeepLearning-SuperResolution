@@ -1,0 +1,2 @@
+레이어 추가, learning rate 줄이고 gamma=0.5추가
+활성함수 tanh->1,2레이어 relu-> 모두 relu -> 모두 leak-relu순으로 학습 빨리 함
