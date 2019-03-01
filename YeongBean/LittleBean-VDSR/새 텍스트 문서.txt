@@ -1,0 +1,3 @@
+python eval.py --cuda --dataset Set5
+
+python main_vdsr.py --cuda --gpus 0 --nEpochs 200
